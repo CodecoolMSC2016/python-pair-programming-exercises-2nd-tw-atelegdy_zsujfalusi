@@ -6,13 +6,6 @@ def listoverlap(a, b):
             c.append(i)
             actual = i
 
-        '''for j in b:
-            if a[i] != actual:
-                if a[i] == b[j]:
-                    c.append(a[i])
-                    actual = a[i]
-                    '''
-
     return c
 
 
